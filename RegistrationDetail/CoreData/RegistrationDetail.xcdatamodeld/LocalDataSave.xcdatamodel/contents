@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G436" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="EducationEntity" representedClassName="EducationEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="designation" optional="YES" attributeType="String"/>
+        <attribute name="domainchoose" optional="YES" attributeType="String"/>
+        <attribute name="education" optional="YES" attributeType="String"/>
+        <attribute name="experince" optional="YES" attributeType="String"/>
+        <attribute name="grade" optional="YES" attributeType="String"/>
+        <attribute name="passingYear" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserEntity" representedClassName="UserEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="education" optional="YES" attributeType="String"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="firstName" optional="YES" attributeType="String"/>
+        <attribute name="imagename" optional="YES" attributeType="String"/>
+        <attribute name="lastName" optional="YES" attributeType="String"/>
+        <attribute name="passworddata" optional="YES" attributeType="String"/>
+        <attribute name="phoneNum" optional="YES" attributeType="String"/>
+    </entity>
+</model>

@@ -1,0 +1,6 @@
+framework module Pods_RegistrationDetail_RegistrationDetailUITests {
+  umbrella header "Pods-RegistrationDetail-RegistrationDetailUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
